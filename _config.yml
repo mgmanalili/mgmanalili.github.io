@@ -17,14 +17,12 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/MichaelManalil6"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/michaelmanaliligeomatics/"
-    - icon: fa-stack-exchange
-      link: "#"
+    #- icon: fa-stack-exchange
+    #  link: "#"
     - icon: fa-github
       link: "https://github.com/mgmanalili"
 
