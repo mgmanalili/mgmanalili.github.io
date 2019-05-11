@@ -5,8 +5,4 @@ header:
 	image: "/images/about.jpg"
 ---
 
-
 I am groot.
-
-
-
