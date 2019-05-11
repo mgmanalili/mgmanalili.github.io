@@ -1,10 +1,10 @@
 [
 	{
-		"slug": "cool-project",
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
+		"slug": "geo-project",
+		"name": "GeoProject1",
+		"image": "npv_ifg.jpg",
 		"url": "https://www.google.com",
 		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
+		"tags": ["ESA","Synthetic Aperture Radar","Remote Sensing"]
 	}
 ]
