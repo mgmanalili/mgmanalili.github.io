@@ -55,9 +55,9 @@ footer-link-col: "#404040"
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-navbar-img: "/img/esa.jpg"
+#navbar-img: "/img/esa.jpg"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+page-img: "/img/bgimage.png"
 
 # --- Footer options --- #
 
@@ -75,7 +75,7 @@ social-network-links:
   email: "michaelandrew.manalili@gmail.com"
   #facebook: daattali
   github: mgmanalili
-  twitter: MichaelManalili6
+  twitter: MichaelManalil6
 #  reddit: yourname
 #  google-plus: +DeanAttali
   linkedin: michaelmanaliligeomatics
@@ -162,7 +162,7 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+paginate: 10
 
 kramdown:
   input: GFM

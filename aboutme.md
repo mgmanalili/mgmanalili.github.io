@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Something about me
-subtitle: ...
+title: Hello!
 ---
 
 I am Michael Manalili and I have a science background (Forestry)
