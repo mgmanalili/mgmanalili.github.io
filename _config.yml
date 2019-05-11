@@ -5,7 +5,8 @@ github: https://github.com/mgmanalili
 about: I am groot
 disqus_shortname: 
 google_analytics: 
-avatar_url: /static/img/avatar.png
+avatar_url: /static/img/me.png
+header: /img/esa.jpg
 
 enableTags: true
 tagarray: []
@@ -21,11 +22,11 @@ social:
     - icon: fa-twitter
       link: "#"
     - icon: fa-linkedin
-      link: "#"
+      link: "https://www.linkedin.com/in/michaelmanaliligeomatics/"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/mgmanalili"
 
 share:
   twitter_username:
@@ -45,9 +46,9 @@ paginate: 20
 per_page: 20
 paginate_path: "/page/:num/"
 markdown: kramdown
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+#gems:
+#  - jekyll-paginate
+#  - jekyll-gist
 
 compress_html:
   clippings: all
