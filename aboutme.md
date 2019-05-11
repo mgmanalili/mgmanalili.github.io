@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Something about me
+subtitle: ...
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Michael Manalili and I have a science background (Forestry)
+I am currently working for the UN World Food Programme as a GIS Consultant
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I am interested in Earth Observation, Remote Sensing, Computer Vision and 
+Python programming. I read a lot about Space Technology and I am an
+advocate of Free and Open Source Applications for Geospatial (FOSS4G)
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am a husband, a father, and a humanitarian. 
