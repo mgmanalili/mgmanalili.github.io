@@ -15,7 +15,7 @@ I am a husband, a father, and a humanitarian.
 
 ### Summary of work experience
 ## WFP
-![Alt text](img/wfp.png?raw=true "WFP")
+!(img/wfp.png)
 GIS Developer
 
 

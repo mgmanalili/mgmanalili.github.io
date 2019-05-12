@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Taiwan Training
-image: /img/hello_world.jpeg
+image: /img/taiwan.png
 ---
 
 Taiwan Training (add image)
