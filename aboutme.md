@@ -17,12 +17,10 @@ I am a husband, a father, and a humanitarian.
 ## Summary of work experiences
 
 ### World Food Programme
-#### GIS Developer
-<p>Present<br> Rome, Italy</p>
+#### GIS Developer  <p>Present<br> Rome, Italy</p>
 
 ### Food and Agriculture Oorganization
-#### Geomatics Consultant
-<p>Apr 2017 - Nov 2017 <br> Quezon City, Philippines</p>
+#### Geomatics Consultant  <p>Apr 2017 - Nov 2017 <br> Quezon City, Philippines</p>
 
 ### Training Center for Applied Geodesy and Photogrammetry
 #### Senior Research Associate
@@ -58,20 +56,19 @@ I am a husband, a father, and a humanitarian.
 ## Volunteer Experience
 #### Humanitarian Open Street Map
 #### Humanitarian UAV Network
-#### Humanitarian Data Exchange (Data contributor)
-[HDX](https://data.humdata.org/user/mgmanalili)
+#### [Humanitarian Data Exchange (Data contributor)](https://data.humdata.org/user/mgmanalili)
 
 ## FAO Philippines
 [UAV for DRR](https://www.youtube.com/watch?v=tBtCVX-j_ek&feature=youtu.be)
 
-## Talks and Trainings
+## Talks
 [FOSS4GPH](https://foss4gph.github.io/)
-[University Training on FOSS4G](https://slsugistc.com/2018/05/17/advance-gis-training-workshop-on-free-and-open-source-software-for-geospatial-data/)
-![FAO Geomatics Training for DRR](FAO_DRR.jpg)
+
+## Trainings
+![FAO Geomatics Training for DRR](FAO_DRR.jpg)  [University Training on FOSS4G](https://slsugistc.com/2018/05/17/advance-gis-training-workshop-on-free-and-open-source-software-for-geospatial-data/)
 
 ## Publication/Papers
-[Researchgate](https://www.researchgate.net/profile/Michael_Andrew_Manalili)
-[ISPRS](https://doi.org/10.5194/isprs-archives-XLII-4-W12-83-2019)
+[Researchgate](https://www.researchgate.net/profile/Michael_Andrew_Manalili)  [ISPRS](https://doi.org/10.5194/isprs-archives-XLII-4-W12-83-2019)
 
 
 
