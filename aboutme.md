@@ -51,7 +51,7 @@ I am a husband, a father, and a humanitarian.
 
 ## Education
 #### MSc Geomatics Engineering (Geoinformatics)
-<p>Oct 2015 - Dec 2018 <br> University of the Philippines, Diliman <br> Department of Geodetic Engineering, College of Engineering<br><strong>Master's Thesis <strong> <br> Geosimulation of Riverine Type Mangrove in Palawan, Philippines using Cellular Automata</p>
+<p>Oct 2015 - Dec 2018 <br> University of the Philippines, Diliman <br> Department of Geodetic Engineering, College of Engineering<br><strong>Master's Thesis</strong><br><em>Geosimulation of Riverine Type Mangrove in Palawan, Philippines using Cellular Automata</em>
 
 #### BS Forestry
 <p>June 2005 - April 2009 <br> University of the Philippines, Los Banos <br> College of Forestry and Natural Resources</p>
