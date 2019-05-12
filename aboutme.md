@@ -3,7 +3,7 @@ layout: page
 title: Hello!
 ---
 
-![bg](img/esa.jpg)
+![bg](esa.jpg)
 
 I am Michael Manalili and I have a science background (Forestry)
 I am currently working for the UN World Food Programme as a GIS Consultant
@@ -17,7 +17,7 @@ I am a husband, a father, and a humanitarian.
 
 ### Summary of work experience
 ## WFP
-![logo](img/wfp.png)
+![logo](wfp.png)
 GIS Developer
 
 
