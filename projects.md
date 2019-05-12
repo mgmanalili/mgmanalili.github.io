@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My projects
+title: My project page
 ---
 
 ![bg](esa.jpg)

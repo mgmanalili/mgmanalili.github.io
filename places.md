@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Places I've been to
+title: My places
 ---
 
-![bg](esa.jpg)
+![bg](world.png)
 
 

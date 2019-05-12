@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Hello!
+title: Hello, I'm Michael!
 ---
 
 ![bg](esa.jpg)
 
-I am Michael Manalili and I have a science background (Forestry)
-I am currently working for the UN World Food Programme as a GIS Consultant
+If you want to know more about me and what I do and my iterest, please scroll down ;) 
 
 I am interested in Earth Observation, Remote Sensing, Computer Vision and 
 Python programming. I read a lot about Space Technology and I am an
@@ -51,7 +50,7 @@ I am a husband, a father, and a humanitarian.
 
 ## Education
 #### MSc Geomatics Engineering (Geoinformatics)
-<p>Oct 2015 - Dec 2018 <br> University of the Philippines, Diliman <br> Department of Geodetic Engineering, College of Engineering<br><strong>Master's Thesis</strong><br><em>Geosimulation of Riverine Type Mangrove in Palawan, Philippines using Cellular Automata</em>
+<p>Oct 2015 - Dec 2018 <br> University of the Philippines, Diliman <br> Department of Geodetic Engineering, College of Engineering<br><strong>Master's Thesis</strong><br><em>Geosimulation of Riverine Type Mangrove in Palawan, Philippines using Cellular Automata</em></p>
 
 #### BS Forestry
 <p>June 2005 - April 2009 <br> University of the Philippines, Los Banos <br> College of Forestry and Natural Resources</p>
