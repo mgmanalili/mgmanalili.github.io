@@ -17,10 +17,12 @@ I am a husband, a father, and a humanitarian.
 ## Summary of work experiences
 
 ### World Food Programme
-#### GIS Developer  <p>Present<br> Rome, Italy</p>
+#### GIS Developer
+<p>Present<br> Rome, Italy</p>
 
 ### Food and Agriculture Oorganization
-#### Geomatics Consultant  <p>Apr 2017 - Nov 2017 <br> Quezon City, Philippines</p>
+#### Geomatics Consultant
+<p>Apr 2017 - Nov 2017 <br> Quezon City, Philippines</p>
 
 ### Training Center for Applied Geodesy and Photogrammetry
 #### Senior Research Associate
@@ -54,18 +56,30 @@ I am a husband, a father, and a humanitarian.
 <p>June 2005 - April 2009 <br> University of the Philippines, Los Banos <br> College of Forestry and Natural Resources</p>
 
 ## Volunteer Experience
+<p>I like volunteering experience. It helps me appreciate more my craft!<br> It also gives me a feeling a sense of fulfillment especially when you know your work <br> is helping others do their job better, faster, easier.</p>
+
 #### Humanitarian Open Street Map
 #### Humanitarian UAV Network
 #### [Humanitarian Data Exchange (Data contributor)](https://data.humdata.org/user/mgmanalili)
 
 ## FAO Philippines
-[UAV for DRR](https://www.youtube.com/watch?v=tBtCVX-j_ek&feature=youtu.be)
+<p>A short clip how FAO in the Philippines have used drones for DRR. <br>I am proud to be part of this great effort by the Department of Agriculture and FAOPH.</p>
+
+[FAOPHUAV for DRR](https://www.youtube.com/watch?v=tBtCVX-j_ek&feature=youtu.be)
 
 ## Talks
+<p>I gave a small talk on Big Data and Remote Sensing using Google Earth Engine</p>
+
 [FOSS4GPH](https://foss4gph.github.io/)
 
 ## Trainings
-![FAO Geomatics Training for DRR](FAO_DRR.jpg)  [University Training on FOSS4G](https://slsugistc.com/2018/05/17/advance-gis-training-workshop-on-free-and-open-source-software-for-geospatial-data/)
+<p>I gave a training series on the use of Free and Open Source Software for Agriculture DRR (FOSS4AgriDRR)</p>
+
+![FAO Geomatics Training for DRR](FAO_DRR.jpg)
+
+<p>Training for Southern Leyte GIS Technology Center</p>
+
+[University Training on FOSS4G](https://slsugistc.com/2018/05/17/advance-gis-training-workshop-on-free-and-open-source-software-for-geospatial-data/)
 
 ## Publication/Papers
 [Researchgate](https://www.researchgate.net/profile/Michael_Andrew_Manalili)  [ISPRS](https://doi.org/10.5194/isprs-archives-XLII-4-W12-83-2019)
