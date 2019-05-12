@@ -13,6 +13,8 @@ advocate of Free and Open Source Applications for Geospatial (FOSS4G)
 
 I am a husband, a father, and a humanitarian. 
 
+---
+---
 
 ## Summary of work experiences
 
@@ -48,12 +50,18 @@ I am a husband, a father, and a humanitarian.
 #### Research Assistant
 <p>May 2009 - Aug 2011 <br> Los Banos, Laguna, Philippines</p>
 
+---
+---
+
 ## Education
 #### MSc Geomatics Engineering (Geoinformatics)
 <p>Oct 2015 - Dec 2018 <br> University of the Philippines, Diliman <br> Department of Geodetic Engineering, College of Engineering<br><strong>Master's Thesis</strong><br><em>Geosimulation of Riverine Type Mangrove in Palawan, Philippines using Cellular Automata</em></p>
 
 #### BS Forestry
 <p>June 2005 - April 2009 <br> University of the Philippines, Los Banos <br> College of Forestry and Natural Resources</p>
+
+---
+---
 
 ## Volunteer Experience
 <p>My volunteer experience is mainly to provide geospatial data,analysis, or help map areas <br> so that others can do their job better, easier and faster especially in times of a disaster.</p>
@@ -62,10 +70,16 @@ I am a husband, a father, and a humanitarian.
 #### Humanitarian UAV Network
 #### [Humanitarian Data Exchange (Data contributor)](https://data.humdata.org/user/mgmanalili)
 
+---
+---
+
 ## FAO Philippines
 <p>A short clip how FAO in the Philippines have used drones for DRR. <br>I am proud to be part of this great effort by the Department of Agriculture and FAOPH.</p>
 
 [FAOPH UAV for DRR](https://www.youtube.com/watch?v=tBtCVX-j_ek&feature=youtu.be)
+
+---
+---
 
 ## Talks
 <p>I gave a small talk on Big Data and Remote Sensing using Google Earth Engine</p>
@@ -78,6 +92,9 @@ I am a husband, a father, and a humanitarian.
 ![FAO Geomatics Training for DRR](FAO_DRR.jpg)
 
 [FOSS4G University Training for Southern Leyte GIS Technology Center](https://slsugistc.com/2018/05/17/advance-gis-training-workshop-on-free-and-open-source-software-for-geospatial-data/)
+
+---
+---
 
 ## Publication/Papers
 [Researchgate](https://www.researchgate.net/profile/Michael_Andrew_Manalili)
