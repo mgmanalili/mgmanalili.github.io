@@ -19,7 +19,7 @@ I am a husband, a father, and a humanitarian.
 
 ### World Food Programme
 #### GIS Developer
-<p>I am currently working for [WFP](https://www1.wfp.org/) <br> Rome, Italy</p>
+<p>Present<br> Rome, Italy</p>
 
 ### Food and Agriculture Oorganization
 #### Geomatics Consultant
@@ -52,8 +52,7 @@ I am a husband, a father, and a humanitarian.
 ## Education
 #### MSc Geomatics Engineering (Geoinformatics)
 <p>Oct 2015 - Dec 2018 <br> University of the Philippines, Diliman <br> Department of Geodetic Engineering, College of Engineering</p>
-<p><strong>Master's Thesis <strong> <br> Geosimulation of Riverine Type Mangrove <br>in Palawan, Philippines using Cellular Automata</p>
-Text is available [here](https://www.researchgate.net/publication/327972312_GEOSIMULATION_OF_RIVERINE_TYPE_MANGROVE_IN_PALAWAN_PHILIPPINES_USING_CELLULAR_AUTOMATA)
+<p><strong>Master's Thesis <strong> <br> Geosimulation of Riverine Type Mangrove in Palawan, Philippines using Cellular Automata</p>
 
 #### BS Forestry
 <p>June 2005 - April 2009 <br> University of the Philippines, Los Banos <br> College of Forestry and Natural Resources</p>
