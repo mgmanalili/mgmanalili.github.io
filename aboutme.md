@@ -59,3 +59,13 @@ I am a husband, a father, and a humanitarian.
 #### Humanitarian Open Street Map
 #### Humanitarian UAV Network
 #### Humanitarian Data Exchange (Data contributor)
+![HDX](https://data.humdata.org/user/mgmanalili)
+
+
+## Talks and Trainings
+![FAO Geomatics Training for DRR](FAO_DRR.jpg)
+![FOSS4GPH](https://foss4gph.github.io/)
+![University Training on FOSS4G](https://slsugistc.com/2018/05/17/advance-gis-training-workshop-on-free-and-open-source-software-for-geospatial-data/)
+
+## FAO Philippines
+![UAV for DRR](https://www.youtube.com/watch?v=tBtCVX-j_ek&feature=youtu.be)
