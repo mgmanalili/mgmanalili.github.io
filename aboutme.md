@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hello!
+image: /img/esa.jpeg
 ---
 
 I am Michael Manalili and I have a science background (Forestry)
