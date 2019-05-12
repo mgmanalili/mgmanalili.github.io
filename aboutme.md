@@ -16,8 +16,26 @@ I am a husband, a father, and a humanitarian.
 
 
 ### Summary of work experience
+
 ## WFP
-![logo](wfp.png)
 GIS Developer
+
+## FAO
+Geomatics Consultant
+
+## ADB
+Database Consultant
+
+## Training Center for Applied Geodesy and Photogrammetry
+senior Research Associate
+
+## GHD
+GIS Consultant
+
+## AECOM
+GIS Consultant
+
+## DENR ERDB
+Research Assistant
 
 
