@@ -5,7 +5,7 @@ title: Hello, I'm Michael!
 
 ![bg](esa.jpg)
 
-If you want to know more about me and what I do and my iterest, please scroll down ;) 
+If you want to know more about me and what I do and my iterest, please scroll down :) 
 
 I am interested in Earth Observation, Remote Sensing, Computer Vision and 
 Python programming. I read a lot about Space Technology and I am an
@@ -14,7 +14,7 @@ advocate of Free and Open Source Applications for Geospatial (FOSS4G)
 I am a husband, a father, and a humanitarian. 
 
 
-## Summary of work experience
+## Summary of work experiences
 
 ### World Food Programme
 #### GIS Developer
@@ -58,3 +58,4 @@ I am a husband, a father, and a humanitarian.
 ## Volunteer Experience
 #### Humanitarian Open Street Map
 #### Humanitarian UAV Network
+#### Humanitarian Data Exchange (Data contributor)
