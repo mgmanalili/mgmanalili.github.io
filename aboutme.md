@@ -11,3 +11,11 @@ Python programming. I read a lot about Space Technology and I am an
 advocate of Free and Open Source Applications for Geospatial (FOSS4G)
 
 I am a husband, a father, and a humanitarian. 
+
+
+### Summary of work experience
+## WFP
+![Alt text](img/wfp.png?raw=true "WFP")
+GIS Developer
+
+
