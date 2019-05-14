@@ -1,0 +1,8 @@
+#Ignore single file config file
+config.txt
+
+# Ignore folder
+# folder/
+
+# Ignore all files with this extension
+# *.config
