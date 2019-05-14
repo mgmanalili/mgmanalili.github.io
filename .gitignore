@@ -1,8 +1,10 @@
 #Ignore single file config file
 config.txt
+sample.txt
 
 # Ignore folder
 # folder/
 
 # Ignore all files with this extension
-# *.config
+*.png
+*.jpg

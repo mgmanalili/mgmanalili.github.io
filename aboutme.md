@@ -94,6 +94,9 @@ I am a husband, a father, and a humanitarian.
 [Researchgate](https://www.researchgate.net/profile/Michael_Andrew_Manalili)
 [ISPRS](https://doi.org/10.5194/isprs-archives-XLII-4-W12-83-2019)
 
+------
+![FAO Geomatics Training for DRR](me_wfp.png)
+### Let's connect! :)
 
 
 
