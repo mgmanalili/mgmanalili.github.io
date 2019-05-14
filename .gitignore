@@ -6,5 +6,5 @@ sample.txt
 # folder/
 
 # Ignore all files with this extension
-*.png
-*.jpg
+#*.png
+#*.jpg
