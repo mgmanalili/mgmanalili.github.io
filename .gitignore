@@ -4,7 +4,3 @@ sample.txt
 
 # Ignore folder
 # folder/
-
-# Ignore all files with this extension
-#*.png
-#*.jpg
