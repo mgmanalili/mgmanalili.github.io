@@ -72,7 +72,7 @@ I am a husband, a father, and a humanitarian.
 ------
 
 ## FAO Philippines
-<p>A short <a href="https://www.youtube.com/watch?v=tBtCVX-j_ek&feature=youtu.be">clip</a>showing how FAO in the Philippines have used drones for DRR. <br>I am proud to be part of this great effort by the Department of Agriculture and FAOPH.</p>
+<p>A short<a href="https://www.youtube.com/watch?v=tBtCVX-j_ek&feature=youtu.be">clip</a> showing how FAO in the Philippines have used drones for DRR. <br>I am proud to be part of this great effort by the Department of Agriculture and FAOPH.</p>
 
 ------
 
