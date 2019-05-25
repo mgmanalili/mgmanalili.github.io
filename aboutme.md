@@ -5,13 +5,14 @@ title: Hello, I'm Michael!
 
 ![bg](esa.jpg)
 
-If you want to know more about me and what I do and my iterest, please scroll down :) 
+If you want to know more about me and interested to follow my geospatial journey, please scroll down! :) 
 
-I am interested in Earth Observation, Remote Sensing, Computer Vision and 
+I am particularly interested in Earth Observation, Satellite Remote Sensing, Computer Vision and 
 Python programming. I read a lot about Space Technology and I am an
-advocate of Free and Open Source Applications for Geospatial (FOSS4G)
+advocate of Free and Open Source Sofware for Geospatial (FOSS4G) with applications in disaster management
+and humanitarian applications.
 
-I am a husband, a father, and a humanitarian. 
+I am a husband, a father, geospatialist ,and a humanitarian. 
 
 ------
 
