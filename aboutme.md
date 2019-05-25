@@ -77,7 +77,7 @@ I am a husband, a father, and a humanitarian.
 ------
 
 ## Talks
-<p>I gave a small talk on Big Data and Remote Sensing using Google Earth Engine</p>
+<p>I gave a small <a href="https://foss4gph.github.io//">talk</a> on Big Data and Remote Sensing using Google Earth Engine</p>
 
 [FOSS4GPH](https://foss4gph.github.io/)
 
