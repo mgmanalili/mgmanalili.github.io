@@ -8,9 +8,9 @@ title: Hello, I'm Michael!
 If you want to know more about me and interested to follow my geospatial journey, please scroll down! :) 
 
 I am particularly interested in Earth Observation, Satellite Remote Sensing, Computer Vision and 
-Python programming. I read a lot about Space Technology and I am an
-advocate of Free and Open Source Sofware for Geospatial (FOSS4G) with applications in disaster management
-and humanitarian applications.
+python programming for scientific applications. I read a lot about Space Technology and I promote the
+use of Free and Open Source Sofware for Geospatial (FOSS4G) for humanitarian applications. 
+I strongly support open geospatial data.
 
 I am a husband, a father, geospatialist ,and a humanitarian. 
 
@@ -74,7 +74,7 @@ I am a husband, a father, geospatialist ,and a humanitarian.
 ------
 
 ## FAO Philippines
-<p>A short<a href="https://www.youtube.com/watch?v=tBtCVX-j_ek&feature=youtu.be">clip</a> showing how FAO in the Philippines have used drones for DRR. <br>I am proud to be part of this great effort by the Department of Agriculture and FAOPH.</p>
+<p>A short <a href="https://www.youtube.com/watch?v=tBtCVX-j_ek&feature=youtu.be">clip</a> showing how FAO in the Philippines have used drones for DRR. <br>I am proud to be part of this great effort by the Department of Agriculture and FAOPH.</p>
 
 ------
 
