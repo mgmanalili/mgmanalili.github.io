@@ -70,33 +70,31 @@ I am a husband, a father, and a humanitarian.
 ------
 
 ## FAO Philippines
-<p>A short clip how FAO in the Philippines have used drones for DRR. <br>I am proud to be part of this great effort by the Department of Agriculture and FAOPH.</p>
-
-[FAOPH UAV for DRR](https://www.youtube.com/watch?v=tBtCVX-j_ek&feature=youtu.be)
+<p>A short <a href="https://www.youtube.com/watch?v=tBtCVX-j_ek&feature=youtu.be">clip</a></p> on how FAO in the Philippines have used drones for DRR. <br>I am proud to be part of this great effort by the Department of Agriculture and FAOPH.</p>
 
 ------
 
 ## Talks
-<p>I gave a small <a href="https://foss4gph.github.io//">talk</a> on Big Data and Remote Sensing using Google Earth Engine</p>
-
-[FOSS4GPH](https://foss4gph.github.io/)
+<p>I gave a small <a href="https://foss4gph.github.io//">talk</a> on Big Data for Earth Observation and Remote Sensing on Google Earth Engine</p>
 
 ## Trainings
-<p>I gave a training series on the use of Free and Open Source Software for Agriculture DRR (FOSS4AgriDRR)</p>
+<p>I gave a training series on the use of Free and Open Source Software for Agriculture DRR (FOSS4AgriDRR) for the Disaster Risk Reduction of the Department of Agriculture Head Office and Regional Offices</p>
 
 ![FAO Geomatics Training for DRR](FAO_DRR.jpg)
 
-[FOSS4G University Training for Southern Leyte GIS Technology Center](https://slsugistc.com/2018/05/17/advance-gis-training-workshop-on-free-and-open-source-software-for-geospatial-data/)
+<p>I did a 1 week training in Taiwan Center at the Space and Remote Sensing in 2016 as part of the Capacity Building for South East Asian Scientist program</p>
+
+![RS](img/RemoteSensing.jpg)
 
 ------
-
-## Publication/Papers
-[Researchgate](https://www.researchgate.net/profile/Michael_Andrew_Manalili)
-[ISPRS](https://doi.org/10.5194/isprs-archives-XLII-4-W12-83-2019)
+## Papers
+<p><a href="https://www.researchgate.net/profile/Michael_Andrew_Manalili">Here</a> you can find some of my research works during my stay in the university and my<a href="https://doi.org/10.5194/isprs-archives-XLII-4-W12-83-2019">publication</a> in one of our projects.</p>
 
 ------
 ![FAO Geomatics Training for DRR](me_wfp.png)
 ### Let's connect! :)
+
+<a href="">TEXT</a></p>
 
 
 
