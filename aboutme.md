@@ -53,7 +53,8 @@ I am a husband, a father, and a humanitarian.
 
 ## Education
 #### MSc Geomatics Engineering (Geoinformatics)
-<p>Oct 2015 - Dec 2018 <br> University of the Philippines, Diliman <br> Department of Geodetic Engineering, College of Engineering<br><strong>Master's Thesis</strong><br><em>Geosimulation of Riverine Type Mangrove in Palawan, Philippines using Cellular Automata. Below is a picture of me with my panel during my master's thesis defense in 2018 :)</em></p>
+<p>Oct 2015 - Dec 2018 <br> University of the Philippines, Diliman <br> Department of Geodetic Engineering, College of Engineering<br></p>
+<p>Below is a picture of me with my panel members and adviser after my master's thesis defense in 2018 :) </p>
 
 ![Defense](img/thesis_defense.jpg)
 
@@ -63,7 +64,7 @@ I am a husband, a father, and a humanitarian.
 ------
 
 ## Volunteer Experience
-<p>My volunteer experience is mainly to provide geospatial data,analysis, or help map areas <br> so that others can do their job better, easier and faster especially in times of a disaster.</p>
+<p>My volunteer experience is mostly through contribution of geospatial data and information to the humanitarian community related to natural disaters</p>
 
 #### Humanitarian Open Street Map
 #### Humanitarian UAV Network
