@@ -84,6 +84,7 @@ I am a husband, a father, geospatialist ,and a humanitarian.
 <p>I led a training series for the Department of Agriculture Head and Regional offices on the use of Free and Open Source Software for Agriculture DRR (FOSS4AgriDRR) for the Disaster Risk Reduction. Specialized topics on Remote Sensing, GIS Analysis, Geospatial Database, UAV Operation, and Vulanerability Assessment and Mapping were coverd during the the 5 weeks intense training.</p>
 
 ![FAO Geomatics Training for DRR](FAO_DRR.jpg)
+
 ![FAO Geomatics Training for DRR2](FAO_DRR2.jpg)
 
 <p>In 2016, I was one of the lucky grad student to participate in the Capacity Building for South East Asian Scientist program
