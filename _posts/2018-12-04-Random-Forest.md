@@ -4,7 +4,7 @@ title: RandomForest for Mangrove Forest
 image: /img/rf.png
 ---
 
-```{r}
+```r
 library(caret)
 library(readxl)
 library(rattle)
