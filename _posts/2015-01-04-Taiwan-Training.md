@@ -1,23 +1,23 @@
 ---
 layout: post
-title: Capacity Building for Remote Sensing for Sourtheast Asian Scientist
+title: Taiwan Training
 image: /img/taiwan.png
 ---
 
-Capacity Building for Remote Sensing for Sourtheast Asian Scientist
+Capacity Building on Satellite Remote Sensing for Sourtheast Asian Scientist
 
-![1](img/TWN/formosat.jpg)
+![Formosat](img/TWN/formosat.jpg)
 
-![2](img/TWN/taiwan_controlRoom.jpg)
+![Control Room](img/TWN/taiwan_controlRoom.jpg)
 
-![3](img/TWN/taiwan2.jpg)
+![Taiwan](img/TWN/taiwan2.jpg)
 
-![4](img/TWN/taiwan_long.jpg)
+![Long](img/TWN/taiwan_long.jpg)
 
-![5](img/TWN/sunmoonlake.jpg)
+![sml1](img/TWN/sunmoonlake.jpg)
 
-![6](img/TWN/sunmoonlake2.jpg)
+![sml2](img/TWN/sunmoonlake2.jpg)
 
-![7](img/TWN/taiwan_streetfood.jpg)
+![food1](img/TWN/taiwan_streetfood.jpg)
 
-![8](img/TWN/taiwan_food.jpg)
+![food2](img/TWN/taiwan_food.jpg)
