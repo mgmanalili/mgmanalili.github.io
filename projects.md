@@ -14,9 +14,5 @@ title: My project page
 ------
 ## Enhance Production and Risk Management for Agriculture (EPRiMA)
 ------
-## Enhance Production and Risk Management for Agriculture (EPRiMA)
-------
-## Enhance Production and Risk Management for Agriculture (EPRiMA)
-------
-## Enhance Production and Risk Management for Agriculture (EPRiMA)
+## Geospatial Assessment of Pico De Loro Natural Park
 ------

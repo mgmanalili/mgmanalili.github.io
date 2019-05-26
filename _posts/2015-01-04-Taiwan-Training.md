@@ -6,18 +6,18 @@ image: /img/taiwan.png
 
 Capacity Building on Satellite Remote Sensing for Sourtheast Asian Scientist
 
-![Formosat](img/TWN/formosat.jpg)
+![Formosat](img/posts/TWN/formosat.jpg)
 
-![Control Room](img/TWN/taiwan_controlRoom.jpg)
+![Control Room](img/posts/TWN/taiwan_controlRoom.jpg)
 
-![Taiwan](img/TWN/taiwan2.jpg)
+![Taiwan](img/posts/TWN/taiwan2.jpg)
 
-![Long](img/TWN/taiwan_long.jpg)
+![Long](img/posts/TWN/taiwan_long.jpg)
 
-![sml1](img/TWN/sunmoonlake.jpg)
+![sml1](img/posts/TWN/sunmoonlake.jpg)
 
-![sml2](img/TWN/sunmoonlake2.jpg)
+![sml2](img/posts/TWN/sunmoonlake2.jpg)
 
-![food1](img/TWN/taiwan_streetfood.jpg)
+![food1](img/posts/TWN/taiwan_streetfood.jpg)
 
-![food2](img/TWN/taiwan_food.jpg)
+![food2](img/posts/TWN/taiwan_food.jpg)

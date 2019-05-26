@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create free web map application using Google services and other free and open source tech
+title: Create free web map application using Google APIs
 image: /img/about_img/loc.png
 ---
 
