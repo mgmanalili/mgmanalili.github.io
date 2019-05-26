@@ -5,12 +5,11 @@ title: Hello, I'm Michael!
 
 ![bg](esa.jpg)
 
-If you want to know more about me and interested to follow my geospatial journey, please scroll down! :) 
+If you want to know more about me, scroll down and follow my geospatial journey!
 
-I am particularly interested in Earth Observation, Satellite Remote Sensing, Computer Vision and 
-python programming for scientific applications. I read a lot about Space Technology and I promote the
-use of Free and Open Source Sofware for Geospatial (FOSS4G) for humanitarian applications. 
-I strongly support open geospatial data.
+I am particularly interested in Earth Observation, Satellite Remote Sensing, Space Technology, Computer Vision and 
+python programming for scientific and humanitarian applications. I promote the use of Free and Open Source Sofware 
+for Geospatial (FOSS4G) and I strongly support open geospatial data.
 
 I am a husband, a father, geospatialist ,and a humanitarian. 
 
@@ -60,14 +59,14 @@ I am a husband, a father, geospatialist ,and a humanitarian.
 ![Defense](img/thesis_defense.jpg)
 
 #### BS Forestry
-<p>June 2005 - April 2009 <br> University of the Philippines, Los Banos <br> College of Forestry and Natural Resources</p>
+<p>June 2005 - April 2009 <br> University of the Philippines, Los Baños <br> College of Forestry and Natural Resources</p>
 
 ------
 
 ## Volunteer Experience
 <p>My volunteer experience is mostly through contribution of geospatial data and information to the humanitarian community related to natural disaters</p>
 
-#### Humanitarian Open Street Map
+#### Humanitarian Open Street Map (Data contributor)
 #### Humanitarian UAV Network
 #### [Humanitarian Data Exchange (Data contributor)](https://data.humdata.org/user/mgmanalili)
 
@@ -79,18 +78,20 @@ I am a husband, a father, geospatialist ,and a humanitarian.
 ------
 
 ## Talks
-<p>I gave a small <a href="https://foss4gph.github.io//">talk</a> on Big Data for Earth Observation and Remote Sensing on Google Earth Engine</p>
+<p>I gave a small <a href="https://foss4gph.github.io//">talk</a> on Big Data for Earth Observation and Remote Sensing on Google Earth Engine at the FOSS4G PH event</p>
 
 ## Trainings and Conference
-<p>I gave a training series on the use of Free and Open Source Software for Agriculture DRR (FOSS4AgriDRR) for the Disaster Risk Reduction of the Department of Agriculture Head Office and Regional Offices</p>
+<p>I led a training series for the Department of Agriculture Head and Regional offices on the use of Free and Open Source Software for Agriculture DRR (FOSS4AgriDRR) for the Disaster Risk Reduction. Specialized topics on Remote Sensing, GIS Analysis, Geospatial Database, UAV Operation, and Vulanerability Assessment and Mapping were coverd during the the 5 weeks intense training.</p>
 
 ![FAO Geomatics Training for DRR](FAO_DRR.jpg)
+![FAO Geomatics Training for DRR2](FAO_DRR2.jpg)
 
-<p>I did a 1 week training in Taiwan Center at the Space and Remote Sensing in 2016 as part of the Capacity Building for South East Asian Scientist program</p>
+<p>In 2016, I was one of the lucky grad student to participate in the Capacity Building for South East Asian Scientist program
+held at the Center at the Space and Remote Sensing Research (CSRSR) in Taoyuan, Taiwan</p>
 
 ![RS](img/RemoteSensing.jpg)
 
-<p>I participated in the 36th Asian Conference on Remote Sensing hosted by the Philippines in 2015</p>
+<p>I had the opportunity to participate in the 36th Asian Conference on Remote Sensing (ACRS) hosted by the Philippines in 2015</p>
 
 ![ACRS](img/acrs.jpg)
 
