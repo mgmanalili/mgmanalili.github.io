@@ -96,6 +96,16 @@ held at the Center at the Space and Remote Sensing Research (CSRSR) in Taoyuan, 
 
 ![ACRS](img/acrs.jpg)
 
+<p>I participated in the GeoNode Summit 2019 in Viarregio, Italy together with WFP Colleagues. It was a 3 day event where the first day was full of presentation of GeoNode use cases, updates and future developments and the other 2 days are code sprint.</p>
+
+![geonode2019](img/geonodesummit2019.jpg)
+
+<p>I did a 5 full days of training in Muster, Germany for the OpenGeoHub 2019 Summer School. The theme was "Spatial and spatiotemporal computing: processing large-scale Earth observation data" and I learned a lot about parallel computing and other geospatial techniques using R.</p>
+
+![opengeohub](img/ogh2.jpg)
+![opengeohub](img/ogh1.jpg)
+![opengeohub](img/ogh3.jpg)
+
 ------
 ## Papers
 <p><a href="https://www.researchgate.net/profile/Michael_Andrew_Manalili">Here</a> you can find some of my research works during my stay at the university and our <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W12-83-2019">publication</a> in one of our projects.</p>
