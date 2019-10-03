@@ -21,7 +21,7 @@ I am a husband, a father, geospatialist ,and a humanitarian.
 #### GIS Developer
 <p>Present<br> Rome, Italy</p>
 
-### Food and Agriculture Oorganization
+### Food and Agriculture Organization
 #### Geomatics Consultant
 <p>Apr 2017 - Nov 2017 <br> Quezon City, Philippines</p>
 
