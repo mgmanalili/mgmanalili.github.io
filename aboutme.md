@@ -80,6 +80,8 @@ I am a husband, a father, geospatialist ,and a humanitarian.
 ## Talks
 <p>I gave a small <a href="https://foss4gph.github.io//">talk</a> on Big Data for Earth Observation and Remote Sensing on Google Earth Engine at the FOSS4G PH event</p>
 
+![FAO Geomatics Training for DRR](img/foss4gph.png)
+
 ## Trainings and Conference
 <p>I led a training series for the Department of Agriculture Head and Regional offices on the use of Free and Open Source Software for Agriculture DRR (FOSS4AgriDRR) for the Disaster Risk Reduction. Specialized topics on Remote Sensing, GIS Analysis, Geospatial Database, UAV Operation, and Vulanerability Assessment and Mapping were coverd during the the 5 weeks intense training.</p>
 
