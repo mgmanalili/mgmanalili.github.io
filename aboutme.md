@@ -118,6 +118,7 @@ held at the Center at the Space and Remote Sensing Research (CSRSR) in Taoyuan, 
 <p>We have successfully completed the first WFP Global GIS Workshop in Rome, Italy attended by more than 80 GIS officers from all the countries where WFP operates! I also did a presentation on HOTOSM and did a session on Google Earth Engine :)</p>
 
 ![ggws](img/ggws2019.jpg)
+
 ![ggws](img/gee.jpg)
 
 ------
