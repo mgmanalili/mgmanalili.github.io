@@ -115,6 +115,12 @@ held at the Center at the Space and Remote Sensing Research (CSRSR) in Taoyuan, 
 ![opengeohub](img/ogh3.jpg)
 
 ------
+<p>We have successfully completed the first WFP Global GIS Workshop in Rome, Italy attended by more than 80 GIS officers from all the countries where WFP operates! I also did a presentation on HOTOSM and did a session on Google Earth Engine :)</p>
+
+![ggws](img/ggws2019.jpg)
+![ggws](img/gee.jpg)
+
+------
 ## Papers
 <p><a href="https://www.researchgate.net/profile/Michael_Andrew_Manalili">Here</a> you can find some of my research works during my stay at the university and our <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W12-83-2019">publication</a> in one of our projects.</p>
 
