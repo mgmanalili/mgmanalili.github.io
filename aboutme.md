@@ -115,6 +115,15 @@ held at the Center at the Space and Remote Sensing Research (CSRSR) in Taoyuan, 
 ![opengeohub](img/ogh3.jpg)
 
 ------
+<p>I went on a mission to WFP Mozambique to assist the country office in developing new UAV based drone analysis for flood and other applications. I also proposed an innovation by utilizing oblique drone videos to develop a computer vision and machine learning model for human detection and counting. I created a <a href="https://storymaps.arcgis.com/stories/446021a4917342a0ba341d90abcf029a">story map</a> of my mission including my learning experiences.</p>
+
+![opengeohub](img/mozteam.jpg)
+
+![opengeohub](img/drone.jpg)
+
+![opengeohub](img/scene.jpg)
+
+------
 <p>We have successfully completed the first WFP Global GIS Workshop in Rome, Italy attended by more than 80 GIS officers from all the countries where WFP operates! I also did a presentation on HOTOSM and did a session on Google Earth Engine :)</p>
 
 ![ggws](img/ggws2019.jpg)
