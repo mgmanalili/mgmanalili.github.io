@@ -131,6 +131,11 @@ held at the Center at the Space and Remote Sensing Research (CSRSR) in Taoyuan, 
 ![ggws](img/gee.jpg)
 
 ------
+<p>A week of training on Earth Observation for Disaster Management using RADAR and Optical data from Airbus Defence and Space. Very happy to learn new things!</p>
+
+![airbus](img/airbus.JPG)
+
+------
 ## Papers
 <p><a href="https://www.researchgate.net/profile/Michael_Andrew_Manalili">Here</a> you can find some of my research works during my stay at the university and our <a href="https://doi.org/10.5194/isprs-archives-XLII-4-W12-83-2019">publication</a> in one of our projects.</p>
 
